@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">KickDiscord</string>
+    <string name="button">Bouton spécial</string>
+    <string name="title">Kick Discord</string>
+    <string name="add">Ajouter</string>
+    <string name="suppr">Supprimer</string>
+    <string name="input_id">ID Discord</string>
+    <string name="input_name">Nom</string>
+
+</resources>
