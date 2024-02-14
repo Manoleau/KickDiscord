@@ -96,7 +96,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun sendMessageToDiscord(message: String) {
-        val url = "https://discord.com/api/webhooks/1205572414797381722/B2OIEua7WZR2iqvUWn5mnyx0pC8jh1PKzf7tuQIK56tdBBOPkmVj1-FoGJITmZzgTruS" // Remplacez par l'URL de votre webhook
+        val url = "URLWEBHOOK"
         val jsonType = "application/json; charset=utf-8".toMediaType()
         val jsonPayload = """
         {
